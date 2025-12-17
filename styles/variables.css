@@ -1,4 +1,10 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+  --main-font: 'Inter-Variable', sans-serif;
+  --accent-color: #ff0070;
+  --bg-color: #000028;
+  --text-color: #f1b2ce;
+  --bg-image: url(../images/cover-image-dark.png);
+  --title-decor-bg: var(--accent-color);
+  --header-footer-height: 100vh;
+}
+
